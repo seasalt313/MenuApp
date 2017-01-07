@@ -1,0 +1,38 @@
+html {
+  border: 5px solid #FFB4A2;
+  background-color: #B5838D;
+  border-left: none;
+  border-right: none;
+
+}
+
+body {
+  background-color: #6D6875;
+  margin: 40px;
+  padding: 50px;
+  border: 10px solid #E5989B;
+  border-radius: 9px;
+  color: #FFCDB2;
+  font-size: 20px;
+  font-family: verdana;
+  text-align: center;
+}
+
+.btn {
+  padding: 15px;
+  font-size: 20px;
+  border-radius: 3px;
+  background-color: #FFCDB2;
+}
+
+.menu_ul {
+  text-align: left;
+  margin-top: 20px;
+  border: 1px dashed grey;
+}
+
+input {
+  padding: 10px;
+  font-size: 20px;
+  margin: 10px;
+}
